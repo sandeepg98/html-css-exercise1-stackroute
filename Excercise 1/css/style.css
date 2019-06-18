@@ -1,0 +1,12 @@
+body
+{
+    padding-left: 40%;
+    background-color: #C9CFDC;
+}
+
+div
+{
+    border: 5px solid #ffffff;
+    width: 400px;
+    text-align: center
+}
